@@ -1,8 +1,9 @@
 {
-	"Assets.NAME[StarQ MotorbikeDelivery01AsPersonal]": "Sports Bike",
-	"Assets.NAME[StarQ Car08AsDeliveryTruck]": "Delivery Pickup",
-	"Assets.NAME[StarQ Van01AsDeliveryTruck]": "Delivery Van",
-	"Assets.NAME[StarQ PrisonVan01AsDeliveryTruck]": "Small Delivery Truck",
+	"Assets.NAME[StarQ AdministrationVehicle01AsPersonal]": "Full-Size SUV",
 	"Assets.NAME[StarQ Bus03AsPublicTransport]": "Luxury Bus",
-	"Assets.NAME[StarQ Car09AsTaxi]": "SUV Taxi"
+	"Assets.NAME[StarQ Car08AsDeliveryTruck]": "Delivery Pickup",
+	"Assets.NAME[StarQ Car09AsTaxi]": "SUV Taxi",
+	"Assets.NAME[StarQ MotorbikeDelivery01AsPersonal]": "Sports Bike",
+	"Assets.NAME[StarQ PrisonVan01AsDeliveryTruck]": "Small Delivery Truck",
+	"Assets.NAME[StarQ Van01AsDeliveryTruck]": "Delivery Van"
 }

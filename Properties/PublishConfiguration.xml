@@ -2,7 +2,7 @@
 	<!--Id must be set in order to update existed mod. it is not required for publishing mod for the first time-->
 	<ModId Value="84787" />
 	<!--Name of the mod to display to players-->
-	<DisplayName Value="VanillaVehiclesRemixed" />
+	<DisplayName Value="Vanilla Vehicles Remixed" />
 	<!--Short description of the mod-->
 	<ShortDescription Value="Repurpose some vanilla vehicles for other activities" />
 	<!--Long description of the mod. Single line or multi line. Supports minimal markdown subset-->
@@ -10,18 +10,18 @@
 	<LongDescription>
 # Vanilla Vehicles Remixed
 What is it? Well, this is a collection of a few vehicles which are repurposed from it's vanilla counterpart.
-Repurpose doesn't mean old vehicles are removed. You will still see both variants in game.
+Repurposed doesn't mean old vehicles are removed. You will still see both variants in game.
 
-As of version 1.0, there are 6 vehicles in this pack.
+As of version 2.0, there are 7 vehicles in this pack.
 * Delivery Motorbike (Delivery Vehicle) as **Sports Bike** (Personal Vehicle)
+* CIB Administration Vehicle (Patrol Vehicle) as **Full-Size SUV** (Personal Vehicle)
 * Pickup (Personal Vehicle) as **Delivery Pickup** (Delivery Vehicle)
 * Van (Personal Vehicle) as **Delivery Van** (Delivery Vehicle)
 * Prison Van as **Small Delivery Truck** (Delivery Vehicle)
 * Evacuation Bus as **Luxury Bus** (Public Transport)
 * SUV (Personal Vehicle) as **SUV Taxi** (Taxi)
 
-
-### SUV Taxi is Yellow. If you want to change color, use **Recolor** or **Vehicle Variations Packs**.
+### SUV Taxi is Yellow. If you want to change colour, use **Recolor** or **Vehicle Variations Packs**.
 Any more ideas? Find me on Discord.
 
 # DISCLAIMER
@@ -38,13 +38,14 @@ Any more ideas? Find me on Discord.
 	<Screenshot Value="Properties/Screenshot04.png" />
 	<Screenshot Value="Properties/Screenshot05.png" />
 	<Screenshot Value="Properties/Screenshot06.png" />
+	<Screenshot Value="Properties/Screenshot07.png" />
 	<Screenshot Value="Properties/Thumbnail.png" />
 	<!--Tag, can be set multiple times-->
 	<Tag Value="Code Mod" />
 	<!--Link to the forum post where the mod can be discussed-->
 	<ForumLink Value="" />
 	<!--Version of the mod-->
-	<ModVersion Value="1.0" />
+	<ModVersion Value="2.0" />
 	<!--Recommended version of the base game to use the mod-->
 	<GameVersion Value="*" />
 	<!--Dependency for the mod, can be set multiple times-->
@@ -52,9 +53,11 @@ Any more ideas? Find me on Discord.
 	<Dependency Id="78903" /> <!-- Asset Packs Manager -->
 	<Dependency Id="79634" /> <!-- Asset Icon Library -->
 	<!--Change log for new version. Single line or multi line. Supports minimal markdown subset-->
-	<ChangeLog Value="" />
-	<!--ChangeLog>
-	</ChangeLog-->
+	<ChangeLog Value="2.0" />
+	<ChangeLog>
+# New Vehicles
+* CIB Patrol Vehicle as "Full-Size SUV".
+	</ChangeLog>
 	<!--External link. supported types are discord, github, youtube, twitch, x, paypal, patreon, buymeacoffee, kofi, crowdin, gitlab-->
-	<ExternalLink Type="github" Url="" />
+	<ExternalLink Type="github" Url="https://github.com/qstar-inc/cities2-VanillaVehiclesRemixed" />
 </Publish>
